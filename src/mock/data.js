@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'Programmer.png',
   paragraphOne: 'Front end development combines all of my life passions. I love to design user interfaces, landing pages, apps, etc, and bring them to life using code. The thought process behind creating the best user experience is what fascinates me the most. Understanding why users do what they do, and optimizing websites are the pillars of my web design thought process.',
   paragraphTwo: ' Expanding my knowledge through lessons, books, mentorships, and experiences are important to me, as I believe they are integral parts of not only growing as a front end developer, but as a person.',
-  paragraphThree: '',
-  resume: '', // if no resume, the button will not show up
+  paragraphThree: 'Less about me, more about my skills',
+  resume: 'https://drive.google.com/file/d/1K7xpbNoylV0RrYzaM9OheZknHJlDABqK/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
