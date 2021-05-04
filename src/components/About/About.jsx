@@ -41,7 +41,7 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'Front end development combines all of my life passions. I love to design user interfaces, landing pages, apps, etc, and bring them to life using code. The thought process behind creating the best user experience is what fascinates me the most. Understanding why users do what they do, and optimizing websites are the pillars of my web design thought process.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
