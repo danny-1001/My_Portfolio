@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://crypto-watchers.vercel.app/',
     repo: 'https://github.com/danny-1001/Crypto_watchers', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'Fotofoxsc.png',
+    title: 'FotoFox',
+    info: 'For this projected I created a fully functional photography portfolio and collaborated with 3 people who provided the content for the website. ',
+    info2: 'I built this site using React, JavaScript, Email.js, Formspree.io, and Firebase.',
+    url: 'https://fotofox-58833.web.app/',
+    repo: 'https://github.com/danny-1001/Foto_Fox', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
