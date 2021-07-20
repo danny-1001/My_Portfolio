@@ -30,9 +30,9 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Weather_Widget.png',
-    title: 'Weather Widget',
-    info: ' Created a weather widget utilizing JavaScript, CSS, SCSS, HTML and the OpenWeather API. ',
+    img: 'Weather-Widget.png',
+    title: 'Weather App',
+    info: ' Created a weather app utilizing JavaScript, CSS, SCSS, HTML and the OpenWeather API. ',
     info2: '',
     url: 'https://weather-widget-theta.vercel.app/',
     repo: 'https://github.com/danny-1001/Weather-Widget', // if no repo, the button will not show up
@@ -41,7 +41,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Crpyto.png',
     title: 'Crypto Watcher',
-    info: 'Deployed Cryptocurrency watch list that displays cryptocurrencies. ',
+    info: 'Deployed cryptocurrency watch list that displays cryptocurrencies. ',
     info2:
       'I integrated the CoinGecko API to get cryptocurrency information and utilized React, Javascript, JSX and and CSS to display API information and structure the watchlist.',
     url: 'https://crypto-watchers.vercel.app/',
@@ -61,8 +61,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Shoe.png',
     title: 'Animated Shoe Card',
-    info:
-      'Using JavaScript and CSS animations I was able to create a shoe card that is animated when hovered over.',
+    info: 'Using JavaScript and CSS animations I was able to create a shoe card that is animated.',
     info2: '',
     url: 'https://shoe-card.vercel.app/',
     repo: 'https://github.com/danny-1001/shoe_card', // if no repo, the button will not show up
